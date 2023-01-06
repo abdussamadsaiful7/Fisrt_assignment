@@ -88,6 +88,8 @@
     padding-left: 50px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding-top: 20px;
+    /* box-shadow:darkgray; */
+    
 }
 .calling_button{
     margin-left: 50px;
@@ -100,4 +102,44 @@
     font:bold;
     border: none;
 }
+.footer_section{
+    display: flex;
+    background-color: black;
+    color:white;
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-left: 150px;
+    padding-bottom: 80px;
+    margin-bottom: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
+.third_h{
+    padding-bottom: 25px;
+    padding-right: 50px;
+    font-size: 30px;
+}
+.subscription{
+    padding-left: 100px;
+    
+}
+.fourth_h{
+    padding-bottom: 25px;
+    padding-right: 50px;
+}
+
+.email_input{
+    border-color:white;
+    color: white;
+    padding: 15px;
+    background-color: black;
+    border-radius: 10px;
+}
+.subscribe_button{
+    border: none;
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    color: red;
+    margin-top: 10px;
+}
